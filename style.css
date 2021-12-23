@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -7,11 +8,13 @@ body {
     font-family: 'Oooh Baby', cursive;
 }
 
+
 .container {
     width: 100%;
     height: 100vh;
+
     background: linear-gradient(rgba(0,0,0,.6), rgb(0,0,0,.3)),
-     url(images/hbd3.jpeg) center no-repeat;
+     url(images/hbd3.jpeg) top center no-repeat;
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -71,7 +74,7 @@ body {
     justify-content: center ;
     align-items: flex-end ;
     background: linear-gradient(rgba(0,0,0,.6), rgb(0,0,0,.3)),
-     url(images/person.jpeg) center no-repeat;
+     url(images/n1.jpeg) top repeat-x;
     z-index: -1;
     transform: translateZ(-300px);
     box-shadow: 40px 40px 80px black;
