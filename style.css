@@ -6,14 +6,14 @@
 
 body {
     font-family: 'Oooh Baby', cursive;
+    background-image: url(images/hbd3.jpeg);
 }
 
 
 .container {
     width: 100%;
     height: 100vh;
-    background: linear-gradient(rgba(0,0,0,.6), rgb(0,0,0,.3)),
-     url(images/hbd1.jpeg) center no-repeat;
+   
     background-size: cover;
     display: flex;
     justify-content: center;
