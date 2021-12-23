@@ -6,14 +6,23 @@
 
 body {
     font-family: 'Oooh Baby', cursive;
+    font-style: initial;
+    color: aliceblue;
     background-image: url(images/hbd3.jpeg);
 }
 
+.click {
+    margin-top: 100;
+    color:yellow;
+}
+
+.footer {
+    text-align: center;
+}
 
 .container {
     width: 100%;
     height: 100vh;
-   
     background-size: cover;
     display: flex;
     justify-content: center;
